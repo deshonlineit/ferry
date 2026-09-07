@@ -1,0 +1,48 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+vendor/
+node_modules/
+
+# Logs / cache
+*.log
+logs/
+cache/
+tmp/
+temp/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local database / backups
+*.sql
+*.sqlite
+*.sqlite3
+*.bak
+*.backup
+*.zip
+*.rar
+*.7z
+
+# Local config / credentials
+config.local.php
+config.local.*
+credentials.*
+secrets.*
+
+# XAMPP/local runtime files
+*.pid
+*.sock
+
+# Generated/runtime uploads if applicable
+storage/logs/
+storage/cache/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/

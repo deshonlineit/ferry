@@ -1,0 +1,13 @@
+DirectorySlash Off
+RewriteEngine On
+RewriteRule ^admin$ index.php [L]
+RewriteRule ^admin/$ index.php [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
+
+<IfModule mod_headers.c>
+  # Never cache the admin app (HTML, JS, CSS) so a stale cached error page can't stick
+  Header set Cache-Control "no-store, no-cache, must-revalidate" "expr=%{REQUEST_URI} =~ m#^/ferry/rebuild/admin#"
+  Header set Pragma "no-cache" "expr=%{REQUEST_URI} =~ m#^/ferry/rebuild/admin#"
+</IfModule>

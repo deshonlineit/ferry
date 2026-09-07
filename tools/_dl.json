@@ -1,0 +1,1146 @@
+{
+  "a-series": {
+    "tmp": "src_1.jpg",
+    "rel": "assets/img/categories/a-series.webp"
+  },
+  "apple-parts": {
+    "tmp": "src_2.jpg",
+    "rel": "assets/img/categories/apple-parts.webp"
+  },
+  "iphone-6s": {
+    "tmp": "src_2.jpg",
+    "rel": "assets/img/categories/iphone-6s.webp"
+  },
+  "iphone-6s-plus": {
+    "tmp": "src_2.jpg",
+    "rel": "assets/img/categories/iphone-6s-plus.webp"
+  },
+  "apple-watch": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch.webp"
+  },
+  "apple-watch-se-3rd-gen-40mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-se-3rd-gen-40mm.webp"
+  },
+  "apple-watch-se-3rd-gen-44mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-se-3rd-gen-44mm.webp"
+  },
+  "apple-watch-series-1-38mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-1-38mm.webp"
+  },
+  "apple-watch-series-1-42mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-1-42mm.webp"
+  },
+  "apple-watch-series-10-42mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-10-42mm.webp"
+  },
+  "apple-watch-series-10-46mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-10-46mm.webp"
+  },
+  "apple-watch-series-11-42mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-11-42mm.webp"
+  },
+  "apple-watch-series-11-46mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-11-46mm.webp"
+  },
+  "apple-watch-series-2-38mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-2-38mm.webp"
+  },
+  "apple-watch-series-2-42mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-2-42mm.webp"
+  },
+  "apple-watch-series-3-38mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-3-38mm.webp"
+  },
+  "apple-watch-series-3-42mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-3-42mm.webp"
+  },
+  "apple-watch-series-4-40mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-4-40mm.webp"
+  },
+  "apple-watch-series-4-44mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-4-44mm.webp"
+  },
+  "apple-watch-series-5-40mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-5-40mm.webp"
+  },
+  "apple-watch-series-5-44mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-5-44mm.webp"
+  },
+  "apple-watch-series-6-40mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-6-40mm.webp"
+  },
+  "apple-watch-series-6-44mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-6-44mm.webp"
+  },
+  "apple-watch-series-7-41mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-7-41mm.webp"
+  },
+  "apple-watch-series-7-45mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-7-45mm.webp"
+  },
+  "apple-watch-series-8-41mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-8-41mm.webp"
+  },
+  "apple-watch-series-8-45mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-8-45mm.webp"
+  },
+  "apple-watch-series-9-41mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-9-41mm.webp"
+  },
+  "apple-watch-series-9-45mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-9-45mm.webp"
+  },
+  "apple-watch-series-se-2nd-gen-40mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-se-2nd-gen-40mm.webp"
+  },
+  "apple-watch-series-se-2nd-gen-44mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-se-2nd-gen-44mm.webp"
+  },
+  "apple-watch-series-se-40mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-se-40mm.webp"
+  },
+  "apple-watch-series-se-44mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-se-44mm.webp"
+  },
+  "apple-watch-series-ultra-1st-gen-49mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-ultra-1st-gen-49mm.webp"
+  },
+  "apple-watch-series-ultra-2nd-gen-49mm": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-series-ultra-2nd-gen-49mm.webp"
+  },
+  "apple-watch-ultra-3": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/apple-watch-ultra-3.webp"
+  },
+  "band-for-apple-watch": {
+    "tmp": "src_3.jpg",
+    "rel": "assets/img/categories/band-for-apple-watch.webp"
+  },
+  "ascend-mate-7": {
+    "tmp": "src_4.jpg",
+    "rel": "assets/img/categories/ascend-mate-7.webp"
+  },
+  "batteries": {
+    "tmp": "src_5.jpg",
+    "rel": "assets/img/categories/batteries.webp"
+  },
+  "car-charger": {
+    "tmp": "src_6.jpg",
+    "rel": "assets/img/categories/car-charger.webp"
+  },
+  "chargers": {
+    "tmp": "src_6.jpg",
+    "rel": "assets/img/categories/chargers.webp"
+  },
+  "chargers-retail-package": {
+    "tmp": "src_6.jpg",
+    "rel": "assets/img/categories/chargers-retail-package.webp"
+  },
+  "charging-for-apple-watch": {
+    "tmp": "src_6.jpg",
+    "rel": "assets/img/categories/charging-for-apple-watch.webp"
+  },
+  "power-adapter": {
+    "tmp": "src_6.jpg",
+    "rel": "assets/img/categories/power-adapter.webp"
+  },
+  "wireless-charging": {
+    "tmp": "src_6.jpg",
+    "rel": "assets/img/categories/wireless-charging.webp"
+  },
+  "carbon-fiber-case-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/carbon-fiber-case-for-iphone.webp"
+  },
+  "cases-for-airtag": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/cases-for-airtag.webp"
+  },
+  "cases-for-google-pixel": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/cases-for-google-pixel.webp"
+  },
+  "cases-for-huawei": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/cases-for-huawei.webp"
+  },
+  "cases-for-ipad": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/cases-for-ipad.webp"
+  },
+  "cases-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/cases-for-iphone.webp"
+  },
+  "cases-for-lenovo": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/cases-for-lenovo.webp"
+  },
+  "cases-for-samsung": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/cases-for-samsung.webp"
+  },
+  "faded-clear-case-with-magsafe-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/faded-clear-case-with-magsafe-for-iphone.webp"
+  },
+  "floral-case-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/floral-case-for-iphone.webp"
+  },
+  "galaxy-xcover-4": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/galaxy-xcover-4.webp"
+  },
+  "galaxy-xcover-5": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/galaxy-xcover-5.webp"
+  },
+  "galaxy-xcover-6-pro": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/galaxy-xcover-6-pro.webp"
+  },
+  "galaxy-xcover-pro": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/galaxy-xcover-pro.webp"
+  },
+  "handbag-case-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/handbag-case-for-iphone.webp"
+  },
+  "hard-case-with-magsafe-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/hard-case-with-magsafe-for-iphone.webp"
+  },
+  "leather-case-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/leather-case-for-iphone.webp"
+  },
+  "marble-case-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/marble-case-for-iphone.webp"
+  },
+  "pattern-case-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/pattern-case-for-iphone.webp"
+  },
+  "prismatic-case-with-magsafe-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/prismatic-case-with-magsafe-for-iphone.webp"
+  },
+  "rope-case-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/rope-case-for-iphone.webp"
+  },
+  "silicone-case-for-airpods": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/silicone-case-for-airpods.webp"
+  },
+  "silicone-case-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/silicone-case-for-iphone.webp"
+  },
+  "star-case-with-magsafe-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/star-case-with-magsafe-for-iphone.webp"
+  },
+  "transparent-case-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/transparent-case-for-iphone.webp"
+  },
+  "travel-bag-case": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/travel-bag-case.webp"
+  },
+  "wooden-case-for-iphone": {
+    "tmp": "src_7.jpg",
+    "rel": "assets/img/categories/wooden-case-for-iphone.webp"
+  },
+  "cool-gadgets": {
+    "tmp": "src_8.jpg",
+    "rel": "assets/img/categories/cool-gadgets.webp"
+  },
+  "creativity": {
+    "tmp": "src_9.jpg",
+    "rel": "assets/img/categories/creativity.webp"
+  },
+  "devices": {
+    "tmp": "src_10.jpg",
+    "rel": "assets/img/categories/devices.webp"
+  },
+  "galaxy-a10": {
+    "tmp": "src_13.jpg",
+    "rel": "assets/img/categories/galaxy-a10.webp"
+  },
+  "galaxy-a10e": {
+    "tmp": "src_13.jpg",
+    "rel": "assets/img/categories/galaxy-a10e.webp"
+  },
+  "galaxy-a10s": {
+    "tmp": "src_13.jpg",
+    "rel": "assets/img/categories/galaxy-a10s.webp"
+  },
+  "galaxy-a13": {
+    "tmp": "src_14.jpg",
+    "rel": "assets/img/categories/galaxy-a13.webp"
+  },
+  "iphone-12-pro": {
+    "tmp": "src_14.jpg",
+    "rel": "assets/img/categories/iphone-12-pro.webp"
+  },
+  "samsung-galaxy-note-20": {
+    "tmp": "src_14.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-note-20.webp"
+  },
+  "galaxy-a41": {
+    "tmp": "src_17.jpg",
+    "rel": "assets/img/categories/galaxy-a41.webp"
+  },
+  "galaxy-a5": {
+    "tmp": "src_18.jpg",
+    "rel": "assets/img/categories/galaxy-a5.webp"
+  },
+  "galaxy-a51": {
+    "tmp": "src_21.jpg",
+    "rel": "assets/img/categories/galaxy-a51.webp"
+  },
+  "galaxy-a70": {
+    "tmp": "src_22.jpg",
+    "rel": "assets/img/categories/galaxy-a70.webp"
+  },
+  "galaxy-a80": {
+    "tmp": "src_22.jpg",
+    "rel": "assets/img/categories/galaxy-a80.webp"
+  },
+  "galaxy-a8-2018": {
+    "tmp": "src_23.jpg",
+    "rel": "assets/img/categories/galaxy-a8-2018.webp"
+  },
+  "galaxy-a90": {
+    "tmp": "src_25.jpg",
+    "rel": "assets/img/categories/galaxy-a90.webp"
+  },
+  "galaxy-a90-5g": {
+    "tmp": "src_25.jpg",
+    "rel": "assets/img/categories/galaxy-a90-5g.webp"
+  },
+  "samsung-galaxy-s10-5g": {
+    "tmp": "src_25.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s10-5g.webp"
+  },
+  "galaxy-ace-4": {
+    "tmp": "src_26.jpg",
+    "rel": "assets/img/categories/galaxy-ace-4.webp"
+  },
+  "galaxy-alpha": {
+    "tmp": "src_27.jpg",
+    "rel": "assets/img/categories/galaxy-alpha.webp"
+  },
+  "galaxy-fold-5g": {
+    "tmp": "src_29.jpg",
+    "rel": "assets/img/categories/galaxy-fold-5g.webp"
+  },
+  "galaxy-j5-2016": {
+    "tmp": "src_32.jpg",
+    "rel": "assets/img/categories/galaxy-j5-2016.webp"
+  },
+  "galaxy-m10": {
+    "tmp": "src_35.jpg",
+    "rel": "assets/img/categories/galaxy-m10.webp"
+  },
+  "galaxy-m20": {
+    "tmp": "src_37.jpg",
+    "rel": "assets/img/categories/galaxy-m20.webp"
+  },
+  "galaxy-mega": {
+    "tmp": "src_39.jpg",
+    "rel": "assets/img/categories/galaxy-mega.webp"
+  },
+  "headset": {
+    "tmp": "src_44.jpg",
+    "rel": "assets/img/categories/headset.webp"
+  },
+  "honor-10": {
+    "tmp": "src_45.jpg",
+    "rel": "assets/img/categories/honor-10.webp"
+  },
+  "honor-10-lite": {
+    "tmp": "src_46.jpg",
+    "rel": "assets/img/categories/honor-10-lite.webp"
+  },
+  "honor-8": {
+    "tmp": "src_48.jpg",
+    "rel": "assets/img/categories/honor-8.webp"
+  },
+  "honor-8x": {
+    "tmp": "src_49.jpg",
+    "rel": "assets/img/categories/honor-8x.webp"
+  },
+  "honor-9": {
+    "tmp": "src_50.jpg",
+    "rel": "assets/img/categories/honor-9.webp"
+  },
+  "honor-series": {
+    "tmp": "src_51.jpg",
+    "rel": "assets/img/categories/honor-series.webp"
+  },
+  "huawei-parts": {
+    "tmp": "src_52.jpg",
+    "rel": "assets/img/categories/huawei-parts.webp"
+  },
+  "imac": {
+    "tmp": "src_53.jpg",
+    "rel": "assets/img/categories/imac.webp"
+  },
+  "ipad-2": {
+    "tmp": "src_54.jpg",
+    "rel": "assets/img/categories/ipad-2.webp"
+  },
+  "ipad-3": {
+    "tmp": "src_55.jpg",
+    "rel": "assets/img/categories/ipad-3.webp"
+  },
+  "ipad-4": {
+    "tmp": "src_56.jpg",
+    "rel": "assets/img/categories/ipad-4.webp"
+  },
+  "iphone-14": {
+    "tmp": "src_56.jpg",
+    "rel": "assets/img/categories/iphone-14.webp"
+  },
+  "iphone-8": {
+    "tmp": "src_56.jpg",
+    "rel": "assets/img/categories/iphone-8.webp"
+  },
+  "ipad-6-2018": {
+    "tmp": "src_57.jpg",
+    "rel": "assets/img/categories/ipad-6-2018.webp"
+  },
+  "ipad-air": {
+    "tmp": "src_58.jpg",
+    "rel": "assets/img/categories/ipad-air.webp"
+  },
+  "iphone-devices": {
+    "tmp": "src_58.jpg",
+    "rel": "assets/img/categories/iphone-devices.webp"
+  },
+  "macbook": {
+    "tmp": "src_58.jpg",
+    "rel": "assets/img/categories/macbook.webp"
+  },
+  "macbook-air": {
+    "tmp": "src_58.jpg",
+    "rel": "assets/img/categories/macbook-air.webp"
+  },
+  "macbook-pro": {
+    "tmp": "src_58.jpg",
+    "rel": "assets/img/categories/macbook-pro.webp"
+  },
+  "ipad-air-11-7th-gen": {
+    "tmp": "src_59.jpg",
+    "rel": "assets/img/categories/ipad-air-11-7th-gen.webp"
+  },
+  "ipad-air-13-7th-gen": {
+    "tmp": "src_59.jpg",
+    "rel": "assets/img/categories/ipad-air-13-7th-gen.webp"
+  },
+  "ipad-pro-13-7th-gen": {
+    "tmp": "src_59.jpg",
+    "rel": "assets/img/categories/ipad-pro-13-7th-gen.webp"
+  },
+  "iphone-13-mini": {
+    "tmp": "src_59.jpg",
+    "rel": "assets/img/categories/iphone-13-mini.webp"
+  },
+  "iphone-xr-devices": {
+    "tmp": "src_59.jpg",
+    "rel": "assets/img/categories/iphone-xr-devices.webp"
+  },
+  "ipad-air-2": {
+    "tmp": "src_60.jpg",
+    "rel": "assets/img/categories/ipad-air-2.webp"
+  },
+  "ipad-air-4": {
+    "tmp": "src_61.jpg",
+    "rel": "assets/img/categories/ipad-air-4.webp"
+  },
+  "ipad-mini": {
+    "tmp": "src_62.jpg",
+    "rel": "assets/img/categories/ipad-mini.webp"
+  },
+  "ipad-mini-6": {
+    "tmp": "src_63.jpg",
+    "rel": "assets/img/categories/ipad-mini-6.webp"
+  },
+  "iphone": {
+    "tmp": "src_64.jpg",
+    "rel": "assets/img/categories/iphone.webp"
+  },
+  "iphone-11": {
+    "tmp": "src_65.jpg",
+    "rel": "assets/img/categories/iphone-11.webp"
+  },
+  "iphone-12": {
+    "tmp": "src_65.jpg",
+    "rel": "assets/img/categories/iphone-12.webp"
+  },
+  "iphone-13": {
+    "tmp": "src_65.jpg",
+    "rel": "assets/img/categories/iphone-13.webp"
+  },
+  "iphone-17": {
+    "tmp": "src_65.jpg",
+    "rel": "assets/img/categories/iphone-17.webp"
+  },
+  "iphone-5": {
+    "tmp": "src_65.jpg",
+    "rel": "assets/img/categories/iphone-5.webp"
+  },
+  "iphone-11-pro": {
+    "tmp": "src_66.jpg",
+    "rel": "assets/img/categories/iphone-11-pro.webp"
+  },
+  "iphone-14-pro": {
+    "tmp": "src_66.jpg",
+    "rel": "assets/img/categories/iphone-14-pro.webp"
+  },
+  "iphone-xs": {
+    "tmp": "src_66.jpg",
+    "rel": "assets/img/categories/iphone-xs.webp"
+  },
+  "iphone-xs-devices": {
+    "tmp": "src_66.jpg",
+    "rel": "assets/img/categories/iphone-xs-devices.webp"
+  },
+  "iphone-11-pro-max": {
+    "tmp": "src_67.jpg",
+    "rel": "assets/img/categories/iphone-11-pro-max.webp"
+  },
+  "mi-10-pro": {
+    "tmp": "src_67.jpg",
+    "rel": "assets/img/categories/mi-10-pro.webp"
+  },
+  "mi-11-pro": {
+    "tmp": "src_67.jpg",
+    "rel": "assets/img/categories/mi-11-pro.webp"
+  },
+  "mi-11-ultra": {
+    "tmp": "src_67.jpg",
+    "rel": "assets/img/categories/mi-11-ultra.webp"
+  },
+  "mi-note-10": {
+    "tmp": "src_67.jpg",
+    "rel": "assets/img/categories/mi-note-10.webp"
+  },
+  "mi-note-10-pro": {
+    "tmp": "src_67.jpg",
+    "rel": "assets/img/categories/mi-note-10-pro.webp"
+  },
+  "iphone-12-mini": {
+    "tmp": "src_68.jpg",
+    "rel": "assets/img/categories/iphone-12-mini.webp"
+  },
+  "iphone-13-pro": {
+    "tmp": "src_69.jpg",
+    "rel": "assets/img/categories/iphone-13-pro.webp"
+  },
+  "iphone-13-pro-max": {
+    "tmp": "src_69.jpg",
+    "rel": "assets/img/categories/iphone-13-pro-max.webp"
+  },
+  "iphone-14-plus": {
+    "tmp": "src_70.jpg",
+    "rel": "assets/img/categories/iphone-14-plus.webp"
+  },
+  "iphone-14-pro-max": {
+    "tmp": "src_71.jpg",
+    "rel": "assets/img/categories/iphone-14-pro-max.webp"
+  },
+  "iphone-15": {
+    "tmp": "src_72.jpg",
+    "rel": "assets/img/categories/iphone-15.webp"
+  },
+  "iphone-15-plus": {
+    "tmp": "src_73.jpg",
+    "rel": "assets/img/categories/iphone-15-plus.webp"
+  },
+  "iphone-15-pro": {
+    "tmp": "src_74.jpg",
+    "rel": "assets/img/categories/iphone-15-pro.webp"
+  },
+  "iphone-15-pro-max": {
+    "tmp": "src_75.jpg",
+    "rel": "assets/img/categories/iphone-15-pro-max.webp"
+  },
+  "iphone-16": {
+    "tmp": "src_76.jpg",
+    "rel": "assets/img/categories/iphone-16.webp"
+  },
+  "iphone-16-plus": {
+    "tmp": "src_77.jpg",
+    "rel": "assets/img/categories/iphone-16-plus.webp"
+  },
+  "iphone-16-pro": {
+    "tmp": "src_78.jpg",
+    "rel": "assets/img/categories/iphone-16-pro.webp"
+  },
+  "iphone-16-pro-max": {
+    "tmp": "src_78.jpg",
+    "rel": "assets/img/categories/iphone-16-pro-max.webp"
+  },
+  "iphone-17-air": {
+    "tmp": "src_79.jpg",
+    "rel": "assets/img/categories/iphone-17-air.webp"
+  },
+  "iphone-17-pro": {
+    "tmp": "src_80.jpg",
+    "rel": "assets/img/categories/iphone-17-pro.webp"
+  },
+  "iphone-17-pro-max": {
+    "tmp": "src_81.jpg",
+    "rel": "assets/img/categories/iphone-17-pro-max.webp"
+  },
+  "iphone-5c": {
+    "tmp": "src_82.jpg",
+    "rel": "assets/img/categories/iphone-5c.webp"
+  },
+  "iphone-5s": {
+    "tmp": "src_83.jpg",
+    "rel": "assets/img/categories/iphone-5s.webp"
+  },
+  "iphone-6": {
+    "tmp": "src_84.jpg",
+    "rel": "assets/img/categories/iphone-6.webp"
+  },
+  "iphone-6-plus": {
+    "tmp": "src_85.jpg",
+    "rel": "assets/img/categories/iphone-6-plus.webp"
+  },
+  "iphone-7": {
+    "tmp": "src_86.jpg",
+    "rel": "assets/img/categories/iphone-7.webp"
+  },
+  "iphone-7-iphone-devices": {
+    "tmp": "src_86.jpg",
+    "rel": "assets/img/categories/iphone-7-iphone-devices.webp"
+  },
+  "iphone-7-plus": {
+    "tmp": "src_87.jpg",
+    "rel": "assets/img/categories/iphone-7-plus.webp"
+  },
+  "iphone-8-devices": {
+    "tmp": "src_88.jpg",
+    "rel": "assets/img/categories/iphone-8-devices.webp"
+  },
+  "iphone-8-plus": {
+    "tmp": "src_89.jpg",
+    "rel": "assets/img/categories/iphone-8-plus.webp"
+  },
+  "iphone-8-plus-devices": {
+    "tmp": "src_90.jpg",
+    "rel": "assets/img/categories/iphone-8-plus-devices.webp"
+  },
+  "iphone-se": {
+    "tmp": "src_91.jpg",
+    "rel": "assets/img/categories/iphone-se.webp"
+  },
+  "iphone-se-2022": {
+    "tmp": "src_93.jpg",
+    "rel": "assets/img/categories/iphone-se-2022.webp"
+  },
+  "iphone-x": {
+    "tmp": "src_94.jpg",
+    "rel": "assets/img/categories/iphone-x.webp"
+  },
+  "iphone-x-devices": {
+    "tmp": "src_95.jpg",
+    "rel": "assets/img/categories/iphone-x-devices.webp"
+  },
+  "iphone-xs-max": {
+    "tmp": "src_97.jpg",
+    "rel": "assets/img/categories/iphone-xs-max.webp"
+  },
+  "iphone11": {
+    "tmp": "src_98.jpg",
+    "rel": "assets/img/categories/iphone11.webp"
+  },
+  "it-multimedia": {
+    "tmp": "src_99.jpg",
+    "rel": "assets/img/categories/it-multimedia.webp"
+  },
+  "lamps-lighting": {
+    "tmp": "src_100.jpg",
+    "rel": "assets/img/categories/lamps-lighting.webp"
+  },
+  "m-series": {
+    "tmp": "src_101.jpg",
+    "rel": "assets/img/categories/m-series.webp"
+  },
+  "markers": {
+    "tmp": "src_102.jpg",
+    "rel": "assets/img/categories/markers.webp"
+  },
+  "mate-10": {
+    "tmp": "src_103.jpg",
+    "rel": "assets/img/categories/mate-10.webp"
+  },
+  "mate-10-pro": {
+    "tmp": "src_104.jpg",
+    "rel": "assets/img/categories/mate-10-pro.webp"
+  },
+  "mate-20": {
+    "tmp": "src_105.jpg",
+    "rel": "assets/img/categories/mate-20.webp"
+  },
+  "mate-20-lite": {
+    "tmp": "src_105.jpg",
+    "rel": "assets/img/categories/mate-20-lite.webp"
+  },
+  "mate-8": {
+    "tmp": "src_108.jpg",
+    "rel": "assets/img/categories/mate-8.webp"
+  },
+  "mate-9": {
+    "tmp": "src_109.jpg",
+    "rel": "assets/img/categories/mate-9.webp"
+  },
+  "mi-10": {
+    "tmp": "src_110.jpg",
+    "rel": "assets/img/categories/mi-10.webp"
+  },
+  "mi-11": {
+    "tmp": "src_112.jpg",
+    "rel": "assets/img/categories/mi-11.webp"
+  },
+  "mi-8": {
+    "tmp": "src_114.jpg",
+    "rel": "assets/img/categories/mi-8.webp"
+  },
+  "mi-9": {
+    "tmp": "src_115.jpg",
+    "rel": "assets/img/categories/mi-9.webp"
+  },
+  "mi-a2": {
+    "tmp": "src_117.jpg",
+    "rel": "assets/img/categories/mi-a2.webp"
+  },
+  "mi-series": {
+    "tmp": "src_119.jpg",
+    "rel": "assets/img/categories/mi-series.webp"
+  },
+  "monitor-accessories": {
+    "tmp": "src_120.jpg",
+    "rel": "assets/img/categories/monitor-accessories.webp"
+  },
+  "n-series": {
+    "tmp": "src_121.jpg",
+    "rel": "assets/img/categories/n-series.webp"
+  },
+  "nova": {
+    "tmp": "src_122.jpg",
+    "rel": "assets/img/categories/nova.webp"
+  },
+  "nova-series": {
+    "tmp": "src_122.jpg",
+    "rel": "assets/img/categories/nova-series.webp"
+  },
+  "nova-2": {
+    "tmp": "src_123.jpg",
+    "rel": "assets/img/categories/nova-2.webp"
+  },
+  "oneplus-12": {
+    "tmp": "src_125.jpg",
+    "rel": "assets/img/categories/oneplus-12.webp"
+  },
+  "p-smart": {
+    "tmp": "src_127.jpg",
+    "rel": "assets/img/categories/p-smart.webp"
+  },
+  "p10": {
+    "tmp": "src_129.jpg",
+    "rel": "assets/img/categories/p10.webp"
+  },
+  "p10-plus": {
+    "tmp": "src_130.jpg",
+    "rel": "assets/img/categories/p10-plus.webp"
+  },
+  "p20": {
+    "tmp": "src_131.jpg",
+    "rel": "assets/img/categories/p20.webp"
+  },
+  "p20-pro": {
+    "tmp": "src_131.jpg",
+    "rel": "assets/img/categories/p20-pro.webp"
+  },
+  "p30": {
+    "tmp": "src_132.jpg",
+    "rel": "assets/img/categories/p30.webp"
+  },
+  "p30-lite": {
+    "tmp": "src_132.jpg",
+    "rel": "assets/img/categories/p30-lite.webp"
+  },
+  "p30-pro": {
+    "tmp": "src_133.jpg",
+    "rel": "assets/img/categories/p30-pro.webp"
+  },
+  "p40": {
+    "tmp": "src_134.jpg",
+    "rel": "assets/img/categories/p40.webp"
+  },
+  "p40-pro": {
+    "tmp": "src_134.jpg",
+    "rel": "assets/img/categories/p40-pro.webp"
+  },
+  "samsung-galaxy-s20-ultra": {
+    "tmp": "src_134.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s20-ultra.webp"
+  },
+  "p7": {
+    "tmp": "src_135.jpg",
+    "rel": "assets/img/categories/p7.webp"
+  },
+  "p8-lite": {
+    "tmp": "src_136.jpg",
+    "rel": "assets/img/categories/p8-lite.webp"
+  },
+  "p8-lite-2017": {
+    "tmp": "src_137.jpg",
+    "rel": "assets/img/categories/p8-lite-2017.webp"
+  },
+  "p9": {
+    "tmp": "src_138.jpg",
+    "rel": "assets/img/categories/p9.webp"
+  },
+  "p9-lite": {
+    "tmp": "src_139.jpg",
+    "rel": "assets/img/categories/p9-lite.webp"
+  },
+  "pen-drive-memory": {
+    "tmp": "src_140.jpg",
+    "rel": "assets/img/categories/pen-drive-memory.webp"
+  },
+  "phone-holder": {
+    "tmp": "src_141.jpg",
+    "rel": "assets/img/categories/phone-holder.webp"
+  },
+  "tablet-holder": {
+    "tmp": "src_141.jpg",
+    "rel": "assets/img/categories/tablet-holder.webp"
+  },
+  "pixel-3": {
+    "tmp": "src_142.jpg",
+    "rel": "assets/img/categories/pixel-3.webp"
+  },
+  "pixel-6": {
+    "tmp": "src_142.jpg",
+    "rel": "assets/img/categories/pixel-6.webp"
+  },
+  "pixel-3a": {
+    "tmp": "src_144.jpg",
+    "rel": "assets/img/categories/pixel-3a.webp"
+  },
+  "pixel-4": {
+    "tmp": "src_145.jpg",
+    "rel": "assets/img/categories/pixel-4.webp"
+  },
+  "pixel-4-xl": {
+    "tmp": "src_146.jpg",
+    "rel": "assets/img/categories/pixel-4-xl.webp"
+  },
+  "pixel-5": {
+    "tmp": "src_147.jpg",
+    "rel": "assets/img/categories/pixel-5.webp"
+  },
+  "pixel-6-pro": {
+    "tmp": "src_148.jpg",
+    "rel": "assets/img/categories/pixel-6-pro.webp"
+  },
+  "pixel-7": {
+    "tmp": "src_150.jpg",
+    "rel": "assets/img/categories/pixel-7.webp"
+  },
+  "pixel-7-pro": {
+    "tmp": "src_151.jpg",
+    "rel": "assets/img/categories/pixel-7-pro.webp"
+  },
+  "pixel-8": {
+    "tmp": "src_152.jpg",
+    "rel": "assets/img/categories/pixel-8.webp"
+  },
+  "pixel-9": {
+    "tmp": "src_153.jpg",
+    "rel": "assets/img/categories/pixel-9.webp"
+  },
+  "poco-f2-pro": {
+    "tmp": "src_157.jpg",
+    "rel": "assets/img/categories/poco-f2-pro.webp"
+  },
+  "poco-series": {
+    "tmp": "src_158.jpg",
+    "rel": "assets/img/categories/poco-series.webp"
+  },
+  "protection-for-apple-watch": {
+    "tmp": "src_160.jpg",
+    "rel": "assets/img/categories/protection-for-apple-watch.webp"
+  },
+  "tempered-glass-for-google-pixel": {
+    "tmp": "src_160.jpg",
+    "rel": "assets/img/categories/tempered-glass-for-google-pixel.webp"
+  },
+  "tempered-glass-for-huawei": {
+    "tmp": "src_160.jpg",
+    "rel": "assets/img/categories/tempered-glass-for-huawei.webp"
+  },
+  "tempered-glass": {
+    "tmp": "src_160.jpg",
+    "rel": "assets/img/categories/tempered-glass.webp"
+  },
+  "tempered-glass-for-microsoft-surface": {
+    "tmp": "src_160.jpg",
+    "rel": "assets/img/categories/tempered-glass-for-microsoft-surface.webp"
+  },
+  "tempered-glass-for-oneplus": {
+    "tmp": "src_160.jpg",
+    "rel": "assets/img/categories/tempered-glass-for-oneplus.webp"
+  },
+  "tempered-glass-for-samsung": {
+    "tmp": "src_160.jpg",
+    "rel": "assets/img/categories/tempered-glass-for-samsung.webp"
+  },
+  "tempered-glass-for-xiaomi": {
+    "tmp": "src_160.jpg",
+    "rel": "assets/img/categories/tempered-glass-for-xiaomi.webp"
+  },
+  "tempered-samsung": {
+    "tmp": "src_160.jpg",
+    "rel": "assets/img/categories/tempered-samsung.webp"
+  },
+  "redmi-10": {
+    "tmp": "src_161.jpg",
+    "rel": "assets/img/categories/redmi-10.webp"
+  },
+  "redmi-7": {
+    "tmp": "src_161.jpg",
+    "rel": "assets/img/categories/redmi-7.webp"
+  },
+  "redmi-note-10": {
+    "tmp": "src_161.jpg",
+    "rel": "assets/img/categories/redmi-note-10.webp"
+  },
+  "redmi-note-10s": {
+    "tmp": "src_161.jpg",
+    "rel": "assets/img/categories/redmi-note-10s.webp"
+  },
+  "redmi-note-7": {
+    "tmp": "src_161.jpg",
+    "rel": "assets/img/categories/redmi-note-7.webp"
+  },
+  "redmi-5": {
+    "tmp": "src_162.jpg",
+    "rel": "assets/img/categories/redmi-5.webp"
+  },
+  "redmi-8": {
+    "tmp": "src_165.jpg",
+    "rel": "assets/img/categories/redmi-8.webp"
+  },
+  "redmi-note-8": {
+    "tmp": "src_165.jpg",
+    "rel": "assets/img/categories/redmi-note-8.webp"
+  },
+  "redmi-note-8-pro": {
+    "tmp": "src_165.jpg",
+    "rel": "assets/img/categories/redmi-note-8-pro.webp"
+  },
+  "s-series": {
+    "tmp": "src_167.jpg",
+    "rel": "assets/img/categories/s-series.webp"
+  },
+  "s20-fe-5g": {
+    "tmp": "src_168.jpg",
+    "rel": "assets/img/categories/s20-fe-5g.webp"
+  },
+  "s5-active": {
+    "tmp": "src_169.jpg",
+    "rel": "assets/img/categories/s5-active.webp"
+  },
+  "samsung-galaxy-note-10": {
+    "tmp": "src_172.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-note-10.webp"
+  },
+  "samsung-galaxy-note-2": {
+    "tmp": "src_172.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-note-2.webp"
+  },
+  "samsung-galaxy-note-3": {
+    "tmp": "src_173.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-note-3.webp"
+  },
+  "samsung-galaxy-note-4": {
+    "tmp": "src_174.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-note-4.webp"
+  },
+  "samsung-galaxy-note-5": {
+    "tmp": "src_175.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-note-5.webp"
+  },
+  "samsung-galaxy-note-8": {
+    "tmp": "src_176.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-note-8.webp"
+  },
+  "samsung-galaxy-note-9": {
+    "tmp": "src_177.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-note-9.webp"
+  },
+  "samsung-galaxy-s10": {
+    "tmp": "src_178.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s10.webp"
+  },
+  "samsung-galaxy-s10-lite": {
+    "tmp": "src_179.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s10-lite.webp"
+  },
+  "samsung-galaxy-s10-plus": {
+    "tmp": "src_180.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s10-plus.webp"
+  },
+  "samsung-galaxy-s20": {
+    "tmp": "src_181.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s20.webp"
+  },
+  "samsung-galaxy-s22": {
+    "tmp": "src_183.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s22.webp"
+  },
+  "samsung-galaxy-s22-ultra": {
+    "tmp": "src_183.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s22-ultra.webp"
+  },
+  "samsung-galaxy-s23": {
+    "tmp": "src_184.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s23.webp"
+  },
+  "samsung-galaxy-s23-ultra": {
+    "tmp": "src_184.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s23-ultra.webp"
+  },
+  "samsung-galaxy-s3": {
+    "tmp": "src_187.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s3.webp"
+  },
+  "samsung-galaxy-s3-mini": {
+    "tmp": "src_188.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s3-mini.webp"
+  },
+  "samsung-galaxy-s4": {
+    "tmp": "src_189.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s4.webp"
+  },
+  "samsung-galaxy-s4-active": {
+    "tmp": "src_189.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s4-active.webp"
+  },
+  "samsung-galaxy-s5": {
+    "tmp": "src_190.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s5.webp"
+  },
+  "samsung-galaxy-s5-neo": {
+    "tmp": "src_191.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s5-neo.webp"
+  },
+  "samsung-galaxy-s6": {
+    "tmp": "src_192.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s6.webp"
+  },
+  "samsung-galaxy-s6-edge": {
+    "tmp": "src_193.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s6-edge.webp"
+  },
+  "samsung-galaxy-s6-edge-plus": {
+    "tmp": "src_194.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s6-edge-plus.webp"
+  },
+  "samsung-galaxy-s7": {
+    "tmp": "src_195.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s7.webp"
+  },
+  "samsung-galaxy-s8": {
+    "tmp": "src_197.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s8.webp"
+  },
+  "samsung-galaxy-s8-plus": {
+    "tmp": "src_198.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s8-plus.webp"
+  },
+  "samsung-galaxy-s9": {
+    "tmp": "src_199.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s9.webp"
+  },
+  "samsung-remaining": {
+    "tmp": "src_199.jpg",
+    "rel": "assets/img/categories/samsung-remaining.webp"
+  },
+  "samsung-galaxy-s9-plus": {
+    "tmp": "src_200.jpg",
+    "rel": "assets/img/categories/samsung-galaxy-s9-plus.webp"
+  },
+  "samsung-parts": {
+    "tmp": "src_201.jpg",
+    "rel": "assets/img/categories/samsung-parts.webp"
+  },
+  "samsung-s20-5g": {
+    "tmp": "src_202.jpg",
+    "rel": "assets/img/categories/samsung-s20-5g.webp"
+  },
+  "samsung-s21": {
+    "tmp": "src_203.jpg",
+    "rel": "assets/img/categories/samsung-s21.webp"
+  },
+  "screwdrivers": {
+    "tmp": "src_204.jpg",
+    "rel": "assets/img/categories/screwdrivers.webp"
+  },
+  "usb-hubs": {
+    "tmp": "src_205.jpg",
+    "rel": "assets/img/categories/usb-hubs.webp"
+  },
+  "xiaomi-parts": {
+    "tmp": "src_206.jpg",
+    "rel": "assets/img/categories/xiaomi-parts.webp"
+  },
+  "y-series": {
+    "tmp": "src_207.jpg",
+    "rel": "assets/img/categories/y-series.webp"
+  }
+}

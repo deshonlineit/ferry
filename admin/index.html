@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ferry Admin — Wholesale Console</title>
+  <link rel="stylesheet" href="assets/css/admin.css?v=4">
+  <script>
+    // Surface any runtime error visibly instead of a blank page
+    window.addEventListener('error', function (e) {
+      var d = document.getElementById('fatal');
+      if (!d) { d = document.createElement('div'); d.id = 'fatal';
+        d.style.cssText = 'position:fixed;inset:0;z-index:9999;background:#0f172a;color:#fff;padding:24px;font:14px/1.5 monospace;white-space:pre-wrap;overflow:auto';
+        document.body.appendChild(d); }
+      d.textContent = 'Admin error:\n' + (e.message || e.error) + '\n' + (e.error && e.error.stack ? e.error.stack : '');
+    });
+  </script>
+</head>
+<body class="admin">
+  <div id="login-view" class="login-view" hidden>
+    <div class="login-card">
+      <div class="login-brand">
+        <span class="login-logo">FT</span>
+        <div>
+          <h1>Ferry Console</h1>
+          <p>Wholesale administration</p>
+        </div>
+      </div>
+      <form id="login-form" class="login-form" autocomplete="off">
+        <label>Username or email
+          <input type="text" name="username" value="admin" required>
+        </label>
+        <label>Password
+          <input type="password" name="password" value="Admin@1234" required>
+        </label>
+        <button type="submit" class="btn btn-primary btn-block">Sign in</button>
+        <p class="login-error" id="login-error"></p>
+      </form>
+    </div>
+  </div>
+
+  <div id="app-view" class="app-view" hidden>
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-brand">
+        <span class="login-logo">FT</span>
+        <span>Ferry Console</span>
+      </div>
+      <nav class="side-nav" id="side-nav"></nav>
+      <div class="sidebar-foot">
+        <div class="who" id="who"></div>
+        <button class="btn btn-ghost btn-block" id="logout-btn">Log out</button>
+      </div>
+    </aside>
+    <div class="main">
+      <header class="topbar">
+        <button class="menu-btn" id="menu-btn" aria-label="Toggle menu">☰</button>
+        <h2 id="page-title">Dashboard</h2>
+        <div class="topbar-right"><span id="who-mini" class="who-mini"></span></div>
+      </header>
+      <main id="admin-app" class="admin-app"></main>
+    </div>
+  </div>
+
+  <div class="modal-backdrop" id="modal-backdrop" hidden>
+    <div class="modal" id="modal" role="dialog" aria-modal="true"></div>
+  </div>
+  <div class="toast" id="toast" hidden></div>
+
+  <script src="assets/js/admin.js?v=4"></script>
+</body>
+</html>
